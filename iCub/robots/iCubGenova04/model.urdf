@@ -85,7 +85,7 @@
     <inertial>
       <origin xyz="-0.000123 -0.0002823 0.008718" rpy="-1.57079632679 0 -1.57079632679"/>
       <mass value="0.126212"/>
-      <inertia ixx="3.27938e-05" ixy="2.67901e-07" ixz="-4.41463e-09" iyy="5.69957e-05" iyz="3.32338e-08" izz="3.26449e-05"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="0.0437089998094 -0.0701 -0.226213" rpy="-1.57079632679 0 -1.57079632679"/>
@@ -203,7 +203,7 @@
     <inertial>
       <origin xyz="-8.2e-06 -0.038202 0.0192673" rpy="0 0 0"/>
       <mass value="0.267485"/>
-      <inertia ixx="0.000335682" ixy="-7.53335e-08" ixz="2.93681e-08" iyy="0.00025387" iyz="-4.26218e-07" izz="0.000154833"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="0.0701000001907 0.587138 0.0622089996185" rpy="0 0 0"/>
@@ -326,7 +326,7 @@
     <inertial>
       <origin xyz="0.0002823 -0.0001229 0.008718" rpy="-1.57079632679 0 0"/>
       <mass value="0.126212"/>
-      <inertia ixx="3.27938e-05" ixy="2.67901e-07" ixz="-4.41463e-09" iyy="5.69957e-05" iyz="3.32338e-08" izz="3.26449e-05"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="-0.0701 0.043709 -0.226213" rpy="-1.57079632679 0 0"/>
@@ -438,7 +438,7 @@
     <inertial>
       <origin xyz="-8.19999999999e-06 -0.038202 -0.04732025" rpy="0 0 0"/>
       <mass value="0.267485"/>
-      <inertia ixx="0.000335682" ixy="-7.53335e-08" ixz="2.93681e-08" iyy="0.00025387" iyz="-4.26218e-07" izz="0.000154833"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="-0.0701000001907 0.587138 -0.00467855" rpy="0 0 0"/>
@@ -583,7 +583,7 @@
     <inertial>
       <origin xyz="-0.0122656014133 3.2e-05 -0.00321064290449" rpy="0 0 0"/>
       <mass value="0.114862"/>
-      <inertia ixx="2.24541e-05" ixy="-1.65173e-08" ixz="-3.55626e-06" iyy="2.29582e-05" iyz="-6.13337e-08" izz="1.00116e-05"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="0.0990079253076 0 -0.0265292487558" rpy="0 0 0"/>
@@ -611,7 +611,7 @@
     <inertial>
       <origin xyz="-0.0214141709438 0.000271725272551 -0.0194402344535" rpy="0 0 0"/>
       <mass value="0.238162"/>
-      <inertia ixx="0.000158626" ixy="-1.12091e-07" ixz="1.02574e-05" iyy="0.000206526" iyz="1.19785e-06" izz="0.000104956"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="0.106587808568 2.31914715418e-07 -0.0407392121175" rpy="0 0 0"/>
@@ -639,7 +639,7 @@
     <inertial>
       <origin xyz="-0.0267620766871 -6.99999999998e-06 0.0146999207713" rpy="0 0 0"/>
       <mass value="0.35913"/>
-      <inertia ixx="0.000142333" ixy="3.60361e-07" ixz="4.94445e-05" iyy="0.000197746" iyz="2.65919e-07" izz="0.000151821"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="0.131933879164 0 -0.0353515667647" rpy="0 0 0"/>
@@ -693,7 +693,7 @@
     <inertial>
       <origin xyz="-0.00673912932843 0.0188019 -0.00465769236154" rpy="0 0 0"/>
       <mass value="0.267903"/>
-      <inertia ixx="8.13344e-05" ixy="7.36974e-06" ixz="-1.04536e-05" iyy="5.86947e-05" iyz="3.92498e-06" izz="9.68353e-05"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="0.259390463317 0.0224999 -0.0850325886962" rpy="0 0 0"/>
@@ -924,7 +924,7 @@
     <inertial>
       <origin xyz="0.000986101955547 -0.001176 0.00410132736724" rpy="0 0 0"/>
       <mass value="0.0362615"/>
-      <inertia ixx="5.57722e-06" ixy="-3.10462e-08" ixz="-9.44554e-07" iyy="5.29845e-06" iyz="-1.59685e-07" izz="1.87724e-06"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="0.400392176248 -7.00000000009e-06 -0.104748304516" rpy="0 0 0"/>
@@ -952,7 +952,7 @@
     <inertial>
       <origin xyz="-0.064668163717 0.0056002 0.0226812940918" rpy="0 0 0"/>
       <mass value="0.248289"/>
-      <inertia ixx="0.000162381" ixy="-2.3536e-06" ixz="3.61526e-05" iyy="0.00043138" iyz="2.07146e-05" izz="0.00030575"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="0.399758069749 0.0194929 -0.107114822834" rpy="0 0 0"/>
@@ -987,7 +987,7 @@
     <inertial>
       <origin xyz="-0.008985 -3.3e-05 -0.0088998" rpy="0 0 0"/>
       <mass value="0.114882"/>
-      <inertia ixx="2.24676e-05" ixy="-1.77064e-08" ixz="3.55951e-06" iyy="2.29712e-05" iyz="6.57597e-08" izz="1.00139e-05"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="-0.120257482 0 -0.032223" rpy="0 0 0"/>
@@ -1015,7 +1015,7 @@
     <inertial>
       <origin xyz="0.0214745951272 0.000268957899687 -0.0194107361535" rpy="0 0 0"/>
       <mass value="0.238162"/>
-      <inertia ixx="0.000159621" ixy="1.19701e-07" ixz="-1.29687e-05" iyy="0.000222574" iyz="1.20112e-06" izz="0.000120056"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="-0.106586691581 1.10800934344e-07 -0.040743380771" rpy="0 0 0"/>
@@ -1043,7 +1043,7 @@
     <inertial>
       <origin xyz="0.026798412222 -1.6e-05 0.0146956806177" rpy="0 0 0"/>
       <mass value="0.35913"/>
-      <inertia ixx="0.00014245" ixy="-2.22441e-07" ixz="-4.95846e-05" iyy="0.000197807" iyz="1.07538e-07" izz="0.000151706"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="-0.131901037685 0 -0.0353427669194" rpy="0 0 0"/>
@@ -1097,7 +1097,7 @@
     <inertial>
       <origin xyz="0.00673912932843 0.0303019 -0.00465769236154" rpy="0 0 0"/>
       <mass value="0.267903"/>
-      <inertia ixx="8.13352e-05" ixy="-7.37159e-06" ixz="1.04505e-05" iyy="5.86823e-05" iyz="3.9319e-06" izz="9.68469e-05"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="-0.259390463317 0.0339999 -0.0850325886962" rpy="0 0 0"/>
@@ -1328,7 +1328,7 @@
     <inertial>
       <origin xyz="-0.000981313804428 -0.001178 0.00408345773913" rpy="0 0 0"/>
       <mass value="0.0362152"/>
-      <inertia ixx="5.56774e-06" ixy="3.08362e-08" ixz="9.42153e-07" iyy="5.28838e-06" iyz="-1.58924e-07" izz="1.87579e-06"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="-0.400314530555 -7.00000000009e-06 -0.105038082269" rpy="0 0 0"/>
@@ -1356,7 +1356,7 @@
     <inertial>
       <origin xyz="0.0647680204057 0.0056304 0.0226602208449" rpy="0 0 0"/>
       <mass value="0.247806"/>
-      <inertia ixx="0.000162491" ixy="2.96453e-06" ixz="-3.68906e-05" iyy="0.000430657" iyz="2.06885e-05" izz="0.000304729"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="-0.399680424055 0.0194929 -0.107404600587" rpy="0 0 0"/>
@@ -1391,7 +1391,7 @@
     <inertial>
       <origin xyz="0.0143705608 0.006567 -0.0063842" rpy="0 0 0"/>
       <mass value="0.125793"/>
-      <inertia ixx="4.0647e-05" ixy="8.09156e-08" ixz="-3.74998e-08" iyy="3.881e-05" iyz="9.39717e-06" izz="4.7535e-05"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="0.0142999998093 -0.079997 -0.0295008" rpy="0 0 0"/>
@@ -1419,7 +1419,7 @@
     <inertial>
       <origin xyz="-8.8573009265e-05 0.035225 -0.01954527" rpy="0 0 0"/>
       <mass value="0.177087"/>
-      <inertia ixx="0.000117943" ixy="-5.25591e-07" ixz="4.68307e-07" iyy="4.04013e-05" iyz="9.81476e-06" izz="0.000105186"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="0 -0.089497 -0.05030077" rpy="0 0 0"/>
@@ -1594,787 +1594,6 @@
     <parent link="head"/>
     <origin rpy="-1.57079632679 1.57079632679 0.0" xyz="0.00950000019074 0.133444 0.0093"/>
   </sensor>
-  <gazebo reference="root_link">
-    <sensor name="root_link_ems_acc_eb5" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0493308 -0.0125771 -0.115691 -3.14159265359 1.29154404503 3.14159265359</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="root_link_ems_acc_eb5" type="accelerometer">
-    <parent link="root_link"/>
-    <origin rpy="-3.14159265359 1.29154404503 3.14159265359" xyz="0.0493308 -0.0125771 -0.115691"/>
-  </sensor>
-  <gazebo reference="root_link">
-    <sensor name="root_link_ems_gyro_eb5" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0493308 -0.0125771 -0.115691 -3.14159265359 1.29154404503 3.14159265359</pose>
-    </sensor>
-  </gazebo>
-  <sensor name="root_link_ems_gyro_eb5" type="gyroscope">
-    <parent link="root_link"/>
-    <origin rpy="-3.14159265359 1.29154404503 3.14159265359" xyz="0.0493308 -0.0125771 -0.115691"/>
-  </sensor>
-  <gazebo reference="chest">
-    <sensor name="chest_ems_acc_eb1" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0647855001907 0.064043 -0.0647091 3.1415169123 -0.261799309122 0.000292641880255</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="chest_ems_acc_eb1" type="accelerometer">
-    <parent link="chest"/>
-    <origin rpy="3.1415169123 -0.261799309122 0.000292641880255" xyz="0.0647855001907 0.064043 -0.0647091"/>
-  </sensor>
-  <gazebo reference="chest">
-    <sensor name="chest_ems_gyro_eb1" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0692016001907 0.064548 -0.0635258 3.1415169123 -0.261799309122 0.000292641880255</pose>
-    </sensor>
-  </gazebo>
-  <sensor name="chest_ems_gyro_eb1" type="gyroscope">
-    <parent link="chest"/>
-    <origin rpy="3.1415169123 -0.261799309122 0.000292641880255" xyz="0.0692016001907 0.064548 -0.0635258"/>
-  </sensor>
-  <gazebo reference="chest">
-    <sensor name="chest_ems_acc_eb2" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0204533001907 0.088063 -0.0641645 3.14159050104 0.261799319819 3.14158433678</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="chest_ems_acc_eb2" type="accelerometer">
-    <parent link="chest"/>
-    <origin rpy="3.14159050104 0.261799319819 3.14158433678" xyz="0.0204533001907 0.088063 -0.0641645"/>
-  </sensor>
-  <gazebo reference="chest">
-    <sensor name="chest_ems_gyro_eb2" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0160371001907 0.087559 -0.0653479 3.14159050104 0.261799319819 3.14158433678</pose>
-    </sensor>
-  </gazebo>
-  <sensor name="chest_ems_gyro_eb2" type="gyroscope">
-    <parent link="chest"/>
-    <origin rpy="3.14159050104 0.261799319819 3.14158433678" xyz="0.0160371001907 0.087559 -0.0653479"/>
-  </sensor>
-  <gazebo reference="chest">
-    <sensor name="chest_ems_acc_eb3" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0230587998093 0.064019 -0.0758985 3.14110916203 0.261100516471 -0.000309071462555</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="chest_ems_acc_eb3" type="accelerometer">
-    <parent link="chest"/>
-    <origin rpy="3.14110916203 0.261100516471 -0.000309071462555" xyz="-0.0230587998093 0.064019 -0.0758985"/>
-  </sensor>
-  <gazebo reference="chest">
-    <sensor name="chest_ems_gyro_eb3" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0186416998093 0.064521 -0.0770785 3.14110916203 0.261100516471 -0.000309071462555</pose>
-    </sensor>
-  </gazebo>
-  <sensor name="chest_ems_gyro_eb3" type="gyroscope">
-    <parent link="chest"/>
-    <origin rpy="3.14110916203 0.261100516471 -0.000309071462555" xyz="-0.0186416998093 0.064521 -0.0770785"/>
-  </sensor>
-  <gazebo reference="chest">
-    <sensor name="chest_ems_acc_eb4" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0621620998093 0.088063 -0.0529887 -3.14159050476 -0.261799319819 3.14158433987</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="chest_ems_acc_eb4" type="accelerometer">
-    <parent link="chest"/>
-    <origin rpy="-3.14159050476 -0.261799319819 3.14158433987" xyz="-0.0621620998093 0.088063 -0.0529887"/>
-  </sensor>
-  <gazebo reference="chest">
-    <sensor name="chest_ems_gyro_eb4" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0665783998093 0.087559 -0.0518054 -3.14159050476 -0.261799319819 3.14158433987</pose>
-    </sensor>
-  </gazebo>
-  <sensor name="chest_ems_gyro_eb4" type="gyroscope">
-    <parent link="chest"/>
-    <origin rpy="-3.14159050476 -0.261799319819 3.14158433987" xyz="-0.0665783998093 0.087559 -0.0518054"/>
-  </sensor>
-  <gazebo reference="chest">
-    <sensor name="chest_mtb_acc_0b7" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0607539998093 -0.0017836 0.0442341 0.875167771492 0.116363734392 -1.48597350247</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="chest_mtb_acc_0b7" type="accelerometer">
-    <parent link="chest"/>
-    <origin rpy="0.875167771492 0.116363734392 -1.48597350247" xyz="-0.0607539998093 -0.0017836 0.0442341"/>
-  </sensor>
-  <gazebo reference="chest">
-    <sensor name="chest_mtb_acc_0b8" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0457046998093 -0.001846 0.0567427 0.500960084689 0.107313688983 -1.4778325291</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="chest_mtb_acc_0b8" type="accelerometer">
-    <parent link="chest"/>
-    <origin rpy="0.500960084689 0.107313688983 -1.4778325291" xyz="-0.0457046998093 -0.001846 0.0567427"/>
-  </sensor>
-  <gazebo reference="chest">
-    <sensor name="chest_mtb_acc_0b9" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0439036001907 -0.0017841 0.0577221 -0.500959928973 0.107315404248 -1.66376017469</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="chest_mtb_acc_0b9" type="accelerometer">
-    <parent link="chest"/>
-    <origin rpy="-0.500959928973 0.107315404248 -1.66376017469" xyz="0.0439036001907 -0.0017841 0.0577221"/>
-  </sensor>
-  <gazebo reference="chest">
-    <sensor name="chest_mtb_acc_0b10" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0594286001907 -0.0018543 0.0457981 -0.875168153475 0.116362025479 -1.65561807505</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="chest_mtb_acc_0b10" type="accelerometer">
-    <parent link="chest"/>
-    <origin rpy="-0.875168153475 0.116362025479 -1.65561807505" xyz="0.0594286001907 -0.0018543 0.0457981"/>
-  </sensor>
-  <gazebo reference="r_upper_arm">
-    <sensor name="r_upper_arm_mtb_acc_2b10" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0412194 0.029588 0.0295279 1.57079546365 1.57078381225 -2.68257161165</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_arm_mtb_acc_2b10" type="accelerometer">
-    <parent link="r_upper_arm"/>
-    <origin rpy="1.57079546365 1.57078381225 -2.68257161165" xyz="-0.0412194 0.029588 0.0295279"/>
-  </sensor>
-  <gazebo reference="r_upper_arm">
-    <sensor name="r_upper_arm_mtb_acc_2b11" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0430568 0.02868 0.0760604 -1.57079614695 -1.57050350741 0.459021725219</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_arm_mtb_acc_2b11" type="accelerometer">
-    <parent link="r_upper_arm"/>
-    <origin rpy="-1.57079614695 -1.57050350741 0.459021725219" xyz="-0.0430568 0.02868 0.0760604"/>
-  </sensor>
-  <gazebo reference="r_upper_arm">
-    <sensor name="r_upper_arm_mtb_acc_2b12" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0430554 0.028681 0.0049922 -1.11177442168 -1.57079632679 0.0</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_arm_mtb_acc_2b12" type="accelerometer">
-    <parent link="r_upper_arm"/>
-    <origin rpy="-1.11177442168 -1.57079632679 0.0" xyz="-0.0430554 0.028681 0.0049922"/>
-  </sensor>
-  <gazebo reference="r_upper_arm">
-    <sensor name="r_upper_arm_mtb_acc_2b13" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.010593237 0.02835 -0.010738 1.57079632702 -0.000214520362041 2.47803674451</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_arm_mtb_acc_2b13" type="accelerometer">
-    <parent link="r_upper_arm"/>
-    <origin rpy="1.57079632702 -0.000214520362041 2.47803674451" xyz="0.010593237 0.02835 -0.010738"/>
-  </sensor>
-  <gazebo reference="r_forearm">
-    <sensor name="r_forearm_mtb_acc_2b7" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0768727847342 0.005497 -0.0110479126068 0.26179949998 0.000370413042328 1.57125816863</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_forearm_mtb_acc_2b7" type="accelerometer">
-    <parent link="r_forearm"/>
-    <origin rpy="0.26179949998 0.000370413042328 1.57125816863" xyz="-0.0768727847342 0.005497 -0.0110479126068"/>
-  </sensor>
-  <gazebo reference="r_forearm">
-    <sensor name="r_forearm_mtb_acc_2b8" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0514186150796 0.015786 0.0407521537277 -0.661143946092 0.147825248461 0.092070114703</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_forearm_mtb_acc_2b8" type="accelerometer">
-    <parent link="r_forearm"/>
-    <origin rpy="-0.661143946092 0.147825248461 0.092070114703" xyz="-0.0514186150796 0.015786 0.0407521537277"/>
-  </sensor>
-  <gazebo reference="r_forearm">
-    <sensor name="r_forearm_mtb_acc_2b9" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0216379956759 0.027924 -0.0132490254018 -1.76682626732 0.261191225646 0.054048344372</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_forearm_mtb_acc_2b9" type="accelerometer">
-    <parent link="r_forearm"/>
-    <origin rpy="-1.76682626732 0.261191225646 0.054048344372" xyz="-0.0216379956759 0.027924 -0.0132490254018"/>
-  </sensor>
-  <gazebo reference="l_upper_arm">
-    <sensor name="l_upper_arm_mtb_acc_1b10" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0430554 -0.028681 0.0295279 -1.57079650664 -1.57050350741 2.68257092837</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_arm_mtb_acc_1b10" type="accelerometer">
-    <parent link="l_upper_arm"/>
-    <origin rpy="-1.57079650664 -1.57050350741 2.68257092837" xyz="-0.0430554 -0.028681 0.0295279"/>
-  </sensor>
-  <gazebo reference="l_upper_arm">
-    <sensor name="l_upper_arm_mtb_acc_1b11" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0412181 -0.029589 0.0760604 -1.57079650664 -1.57050350741 2.68257092837</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_arm_mtb_acc_1b11" type="accelerometer">
-    <parent link="l_upper_arm"/>
-    <origin rpy="-1.57079650664 -1.57050350741 2.68257092837" xyz="-0.0412181 -0.029589 0.0760604"/>
-  </sensor>
-  <gazebo reference="l_upper_arm">
-    <sensor name="l_upper_arm_mtb_acc_1b12" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0412194 -0.029588 0.0049921 -1.5707971899 -1.57078381225 2.68257161159</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_arm_mtb_acc_1b12" type="accelerometer">
-    <parent link="l_upper_arm"/>
-    <origin rpy="-1.5707971899 -1.57078381225 2.68257161159" xyz="-0.0412194 -0.029588 0.0049921"/>
-  </sensor>
-  <gazebo reference="l_upper_arm">
-    <sensor name="l_upper_arm_mtb_acc_1b13" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.010592709 -0.028351 -0.0086914 -1.57079632657 0.000214520362042 -2.47803674451</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_arm_mtb_acc_1b13" type="accelerometer">
-    <parent link="l_upper_arm"/>
-    <origin rpy="-1.57079632657 0.000214520362042 -2.47803674451" xyz="0.010592709 -0.028351 -0.0086914"/>
-  </sensor>
-  <gazebo reference="l_forearm">
-    <sensor name="l_forearm_mtb_acc_1b7" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0768727847342 -0.005483 -0.0110479126068 0.26179949998 0.000370413042328 -1.57033448496</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_forearm_mtb_acc_1b7" type="accelerometer">
-    <parent link="l_forearm"/>
-    <origin rpy="0.26179949998 0.000370413042328 -1.57033448496" xyz="0.0768727847342 -0.005483 -0.0110479126068"/>
-  </sensor>
-  <gazebo reference="l_forearm">
-    <sensor name="l_forearm_mtb_acc_1b8" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0514241740607 -0.0180279 0.0407507258436 -0.661143946092 0.147825248461 -3.04952253889</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_forearm_mtb_acc_1b8" type="accelerometer">
-    <parent link="l_forearm"/>
-    <origin rpy="-0.661143946092 0.147825248461 -3.04952253889" xyz="0.0514241740607 -0.0180279 0.0407507258436"/>
-  </sensor>
-  <gazebo reference="l_forearm">
-    <sensor name="l_forearm_mtb_acc_1b9" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0220991874996 0.025657 -0.0151174243212 1.76682134218 0.261099829847 3.08752548202</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_forearm_mtb_acc_1b9" type="accelerometer">
-    <parent link="l_forearm"/>
-    <origin rpy="1.76682134218 0.261099829847 3.08752548202" xyz="0.0220991874996 0.025657 -0.0151174243212"/>
-  </sensor>
-  <gazebo reference="r_upper_leg">
-    <sensor name="r_upper_leg_ems_acc_eb8" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0404072 -0.040027 -0.0125751 1.57079632679 -0.0 -1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_leg_ems_acc_eb8" type="accelerometer">
-    <parent link="r_upper_leg"/>
-    <origin rpy="1.57079632679 -0.0 -1.57079632679" xyz="0.0404072 -0.040027 -0.0125751"/>
-  </sensor>
-  <gazebo reference="r_upper_leg">
-    <sensor name="r_upper_leg_ems_acc_eb11" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.040407 -0.083207 -0.0125771 1.57079632679 -0.0 -1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_leg_ems_acc_eb11" type="accelerometer">
-    <parent link="r_upper_leg"/>
-    <origin rpy="1.57079632679 -0.0 -1.57079632679" xyz="-0.040407 -0.083207 -0.0125771"/>
-  </sensor>
-  <gazebo reference="r_upper_leg">
-    <sensor name="r_upper_leg_ems_gyro_eb8" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0404072 -0.035455 -0.013079 1.57079632679 -0.0 -1.57079632679</pose>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_leg_ems_gyro_eb8" type="gyroscope">
-    <parent link="r_upper_leg"/>
-    <origin rpy="1.57079632679 -0.0 -1.57079632679" xyz="0.0404072 -0.035455 -0.013079"/>
-  </sensor>
-  <gazebo reference="r_upper_leg">
-    <sensor name="r_upper_leg_ems_gyro_eb11" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.040407 -0.087779 -0.013081 1.57079632679 -0.0 -1.57079632679</pose>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_leg_ems_gyro_eb11" type="gyroscope">
-    <parent link="r_upper_leg"/>
-    <origin rpy="1.57079632679 -0.0 -1.57079632679" xyz="-0.040407 -0.087779 -0.013081"/>
-  </sensor>
-  <gazebo reference="r_upper_leg">
-    <sensor name="r_upper_leg_mtb_acc_11b1" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.030195 0.04914 0.043588612 -0.837758053858 -0.000342790749344 1.57087401652</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_leg_mtb_acc_11b1" type="accelerometer">
-    <parent link="r_upper_leg"/>
-    <origin rpy="-0.837758053858 -0.000342790749344 1.57087401652" xyz="-0.030195 0.04914 0.043588612"/>
-  </sensor>
-  <gazebo reference="r_upper_leg">
-    <sensor name="r_upper_leg_mtb_acc_11b2" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0064065 0.039256 0.0539467 -0.261799341927 -0.000399050135154 1.57090848318</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_leg_mtb_acc_11b2" type="accelerometer">
-    <parent link="r_upper_leg"/>
-    <origin rpy="-0.261799341927 -0.000399050135154 1.57090848318" xyz="-0.0064065 0.039256 0.0539467"/>
-  </sensor>
-  <gazebo reference="r_upper_leg">
-    <sensor name="r_upper_leg_mtb_acc_11b3" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0130214 0.004186 0.0538313 -4.98244646387e-08 -0.000429089990594 1.57091244355</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_leg_mtb_acc_11b3" type="accelerometer">
-    <parent link="r_upper_leg"/>
-    <origin rpy="-4.98244646387e-08 -0.000429089990594 1.57091244355" xyz="-0.0130214 0.004186 0.0538313"/>
-  </sensor>
-  <gazebo reference="r_upper_leg">
-    <sensor name="r_upper_leg_mtb_acc_11b4" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0422675 -0.004845 0.0322719 1.18682375086 -0.000536853726193 1.57083983106</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_leg_mtb_acc_11b4" type="accelerometer">
-    <parent link="r_upper_leg"/>
-    <origin rpy="1.18682375086 -0.000536853726193 1.57083983106" xyz="0.0422675 -0.004845 0.0322719"/>
-  </sensor>
-  <gazebo reference="r_upper_leg">
-    <sensor name="r_upper_leg_mtb_acc_11b5" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0164786 0.004186 0.0538313 -4.98244646387e-08 -0.000429089990594 1.57091244355</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_leg_mtb_acc_11b5" type="accelerometer">
-    <parent link="r_upper_leg"/>
-    <origin rpy="-4.98244646387e-08 -0.000429089990594 1.57091244355" xyz="0.0164786 0.004186 0.0538313"/>
-  </sensor>
-  <gazebo reference="r_upper_leg">
-    <sensor name="r_upper_leg_mtb_acc_11b6" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0157594 -0.026365 -0.0437518 3.14159265359 0.000429089993416 -1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_leg_mtb_acc_11b6" type="accelerometer">
-    <parent link="r_upper_leg"/>
-    <origin rpy="3.14159265359 0.000429089993416 -1.57079632679" xyz="-0.0157594 -0.026365 -0.0437518"/>
-  </sensor>
-  <gazebo reference="r_upper_leg">
-    <sensor name="r_upper_leg_mtb_acc_11b7" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0162386 -0.026366 -0.0437518 3.14159260377 0.000429089990404 -1.57091243007</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_upper_leg_mtb_acc_11b7" type="accelerometer">
-    <parent link="r_upper_leg"/>
-    <origin rpy="3.14159260377 0.000429089990404 -1.57091243007" xyz="0.0162386 -0.026366 -0.0437518"/>
-  </sensor>
-  <gazebo reference="r_lower_leg">
-    <sensor name="r_lower_leg_ems_acc_eb9" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0235071 -0.092765 0.04351373 -4.26442049238e-17 -0.218166543341 1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_lower_leg_ems_acc_eb9" type="accelerometer">
-    <parent link="r_lower_leg"/>
-    <origin rpy="-4.26442049238e-17 -0.218166543341 1.57079632679" xyz="0.0235071 -0.092765 0.04351373"/>
-  </sensor>
-  <gazebo reference="r_lower_leg">
-    <sensor name="r_lower_leg_ems_gyro_eb9" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.024011 -0.088301 0.044503292 -4.26442049238e-17 -0.218166543341 1.57079632679</pose>
-    </sensor>
-  </gazebo>
-  <sensor name="r_lower_leg_ems_gyro_eb9" type="gyroscope">
-    <parent link="r_lower_leg"/>
-    <origin rpy="-4.26442049238e-17 -0.218166543341 1.57079632679" xyz="0.024011 -0.088301 0.044503292"/>
-  </sensor>
-  <gazebo reference="r_lower_leg">
-    <sensor name="r_lower_leg_mtb_acc_11b8" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0055283 -0.004318 0.05362922 -0.244346164565 2.80911040963e-05 1.57090899435</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_lower_leg_mtb_acc_11b8" type="accelerometer">
-    <parent link="r_lower_leg"/>
-    <origin rpy="-0.244346164565 2.80911040963e-05 1.57090899435" xyz="-0.0055283 -0.004318 0.05362922"/>
-  </sensor>
-  <gazebo reference="r_lower_leg">
-    <sensor name="r_lower_leg_mtb_acc_11b9" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0253904 -0.004318 0.0537517 0.349065638045 -3.97141037841e-05 1.57090544048</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_lower_leg_mtb_acc_11b9" type="accelerometer">
-    <parent link="r_lower_leg"/>
-    <origin rpy="0.349065638045 -3.97141037841e-05 1.57090544048" xyz="0.0253904 -0.004318 0.0537517"/>
-  </sensor>
-  <gazebo reference="r_lower_leg">
-    <sensor name="r_lower_leg_mtb_acc_11b10" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0325465 -0.043468 0.0278945 -1.30899714732 4.4408920985e-16 1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_lower_leg_mtb_acc_11b10" type="accelerometer">
-    <parent link="r_lower_leg"/>
-    <origin rpy="-1.30899714732 4.4408920985e-16 1.57079632679" xyz="-0.0325465 -0.043468 0.0278945"/>
-  </sensor>
-  <gazebo reference="r_lower_leg">
-    <sensor name="r_lower_leg_mtb_acc_11b11" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0519165 -0.092958 0.0164801 1.30899714594 -0.000112159802878 1.57082638021</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_lower_leg_mtb_acc_11b11" type="accelerometer">
-    <parent link="r_lower_leg"/>
-    <origin rpy="1.30899714594 -0.000112159802878 1.57082638021" xyz="0.0519165 -0.092958 0.0164801"/>
-  </sensor>
-  <gazebo reference="r_foot">
-    <sensor name="r_foot_mtb_acc_11b12" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.1034744 -0.000807 -0.001215 2.22044604925e-16 2.22044604925e-16 -1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_foot_mtb_acc_11b12" type="accelerometer">
-    <parent link="r_foot"/>
-    <origin rpy="2.22044604925e-16 2.22044604925e-16 -1.57079632679" xyz="0.1034744 -0.000807 -0.001215"/>
-  </sensor>
-  <gazebo reference="r_foot">
-    <sensor name="r_foot_mtb_acc_11b13" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0784744 -0.0118072 -0.001215 2.22044604925e-16 2.22044604925e-16 -1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="r_foot_mtb_acc_11b13" type="accelerometer">
-    <parent link="r_foot"/>
-    <origin rpy="2.22044604925e-16 2.22044604925e-16 -1.57079632679" xyz="0.0784744 -0.0118072 -0.001215"/>
-  </sensor>
-  <gazebo reference="l_upper_leg">
-    <sensor name="l_upper_leg_ems_acc_eb6" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0404072 -0.083207 -0.0125771 1.57079632679 -0.0 -1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_leg_ems_acc_eb6" type="accelerometer">
-    <parent link="l_upper_leg"/>
-    <origin rpy="1.57079632679 -0.0 -1.57079632679" xyz="-0.0404072 -0.083207 -0.0125771"/>
-  </sensor>
-  <gazebo reference="l_upper_leg">
-    <sensor name="l_upper_leg_ems_acc_eb10" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.040407 -0.040027 -0.0125751 1.57079632679 -0.0 1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_leg_ems_acc_eb10" type="accelerometer">
-    <parent link="l_upper_leg"/>
-    <origin rpy="1.57079632679 -0.0 1.57079632679" xyz="0.040407 -0.040027 -0.0125751"/>
-  </sensor>
-  <gazebo reference="l_upper_leg">
-    <sensor name="l_upper_leg_ems_gyro_eb6" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0404072 -0.087779 -0.013081 1.57079632679 -0.0 -1.57079632679</pose>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_leg_ems_gyro_eb6" type="gyroscope">
-    <parent link="l_upper_leg"/>
-    <origin rpy="1.57079632679 -0.0 -1.57079632679" xyz="-0.0404072 -0.087779 -0.013081"/>
-  </sensor>
-  <gazebo reference="l_upper_leg">
-    <sensor name="l_upper_leg_ems_gyro_eb10" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.040407 -0.035455 -0.013079 1.57079632679 -0.0 1.57079632679</pose>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_leg_ems_gyro_eb10" type="gyroscope">
-    <parent link="l_upper_leg"/>
-    <origin rpy="1.57079632679 -0.0 1.57079632679" xyz="0.040407 -0.035455 -0.013079"/>
-  </sensor>
-  <gazebo reference="l_upper_leg">
-    <sensor name="l_upper_leg_mtb_acc_10b1" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.031565 0.049332 0.04200163 0.837758036961 -8.62912829653e-05 1.57087402394</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_leg_mtb_acc_10b1" type="accelerometer">
-    <parent link="l_upper_leg"/>
-    <origin rpy="0.837758036961 -8.62912829653e-05 1.57087402394" xyz="0.031565 0.049332 0.04200163"/>
-  </sensor>
-  <gazebo reference="l_upper_leg">
-    <sensor name="l_upper_leg_mtb_acc_10b2" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0083839 0.039452 0.05335544 0.261799318135 -3.00531353284e-05 1.57090848663</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_leg_mtb_acc_10b2" type="accelerometer">
-    <parent link="l_upper_leg"/>
-    <origin rpy="0.261799318135 -3.00531353284e-05 1.57090848663" xyz="0.0083839 0.039452 0.05335544"/>
-  </sensor>
-  <gazebo reference="l_upper_leg">
-    <sensor name="l_upper_leg_mtb_acc_10b3" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0150706 0.004382 0.053785 0.0 -0.0 1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_leg_mtb_acc_10b3" type="accelerometer">
-    <parent link="l_upper_leg"/>
-    <origin rpy="0.0 -0.0 1.57079632679" xyz="0.0150706 0.004382 0.053785"/>
-  </sensor>
-  <gazebo reference="l_upper_leg">
-    <sensor name="l_upper_leg_mtb_acc_10b4" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0144294 0.004382 0.053785 0.0 -0.0 1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_leg_mtb_acc_10b4" type="accelerometer">
-    <parent link="l_upper_leg"/>
-    <origin rpy="0.0 -0.0 1.57079632679" xyz="-0.0144294 0.004382 0.053785"/>
-  </sensor>
-  <gazebo reference="l_upper_leg">
-    <sensor name="l_upper_leg_mtb_acc_10b5" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0414999 -0.004658 0.03412949 -1.18682376254 -0.0 1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_leg_mtb_acc_10b5" type="accelerometer">
-    <parent link="l_upper_leg"/>
-    <origin rpy="-1.18682376254 -0.0 1.57079632679" xyz="-0.0414999 -0.004658 0.03412949"/>
-  </sensor>
-  <gazebo reference="l_upper_leg">
-    <sensor name="l_upper_leg_mtb_acc_10b6" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0178086 -0.026212 -0.043785 3.14159265359 0.0 -1.57091243005</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_leg_mtb_acc_10b6" type="accelerometer">
-    <parent link="l_upper_leg"/>
-    <origin rpy="3.14159265359 0.0 -1.57091243005" xyz="0.0178086 -0.026212 -0.043785"/>
-  </sensor>
-  <gazebo reference="l_upper_leg">
-    <sensor name="l_upper_leg_mtb_acc_10b7" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0141918 -0.026211 -0.043785 3.14159265359 0.0 -1.5709453147</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_upper_leg_mtb_acc_10b7" type="accelerometer">
-    <parent link="l_upper_leg"/>
-    <origin rpy="3.14159265359 0.0 -1.5709453147" xyz="-0.0141918 -0.026211 -0.043785"/>
-  </sensor>
-  <gazebo reference="l_lower_leg">
-    <sensor name="l_lower_leg_ems_acc_eb7" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0249001 -0.092765 0.04351373 -4.26442049238e-17 -0.218166543341 1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_lower_leg_ems_acc_eb7" type="accelerometer">
-    <parent link="l_lower_leg"/>
-    <origin rpy="-4.26442049238e-17 -0.218166543341 1.57079632679" xyz="0.0249001 -0.092765 0.04351373"/>
-  </sensor>
-  <gazebo reference="l_lower_leg">
-    <sensor name="l_lower_leg_ems_gyro_eb7" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.025404 -0.088301 0.044503292 -4.26442049238e-17 -0.218166543341 1.57079632679</pose>
-    </sensor>
-  </gazebo>
-  <sensor name="l_lower_leg_ems_gyro_eb7" type="gyroscope">
-    <parent link="l_lower_leg"/>
-    <origin rpy="-4.26442049238e-17 -0.218166543341 1.57079632679" xyz="0.025404 -0.088301 0.044503292"/>
-  </sensor>
-  <gazebo reference="l_lower_leg">
-    <sensor name="l_lower_leg_mtb_acc_10b8" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0307696 -0.004318 0.05313347 0.24434616607 -0.0 1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_lower_leg_mtb_acc_10b8" type="accelerometer">
-    <parent link="l_lower_leg"/>
-    <origin rpy="0.24434616607 -0.0 1.57079632679" xyz="0.0307696 -0.004318 0.05313347"/>
-  </sensor>
-  <gazebo reference="l_lower_leg">
-    <sensor name="l_lower_leg_mtb_acc_10b9" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0002136 -0.004318 0.0544518 -0.349065638045 3.97141037841e-05 1.57090544048</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_lower_leg_mtb_acc_10b9" type="accelerometer">
-    <parent link="l_lower_leg"/>
-    <origin rpy="-0.349065638045 3.97141037841e-05 1.57090544048" xyz="-0.0002136 -0.004318 0.0544518"/>
-  </sensor>
-  <gazebo reference="l_lower_leg">
-    <sensor name="l_lower_leg_mtb_acc_10b10" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0563295 -0.043468 0.0259151 1.30899714594 -0.000112159802878 1.57082638021</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_lower_leg_mtb_acc_10b10" type="accelerometer">
-    <parent link="l_lower_leg"/>
-    <origin rpy="1.30899714594 -0.000112159802878 1.57082638021" xyz="0.0563295 -0.043468 0.0259151"/>
-  </sensor>
-  <gazebo reference="l_lower_leg">
-    <sensor name="l_lower_leg_mtb_acc_10b11" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>-0.0281332 -0.092958 0.0184593 -1.3089971472 -2.54317885712e-05 1.57078951235</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_lower_leg_mtb_acc_10b11" type="accelerometer">
-    <parent link="l_lower_leg"/>
-    <origin rpy="-1.3089971472 -2.54317885712e-05 1.57078951235" xyz="-0.0281332 -0.092958 0.0184593"/>
-  </sensor>
-  <gazebo reference="l_foot">
-    <sensor name="l_foot_mtb_acc_10b12" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.1055224 0.0008072 -0.001215 0.0 -0.0 1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_foot_mtb_acc_10b12" type="accelerometer">
-    <parent link="l_foot"/>
-    <origin rpy="0.0 -0.0 1.57079632679" xyz="0.1055224 0.0008072 -0.001215"/>
-  </sensor>
-  <gazebo reference="l_foot">
-    <sensor name="l_foot_mtb_acc_10b13" type="imu">
-      <always_on>1</always_on>
-      <update_rate>100</update_rate>
-      <pose>0.0805224 0.0118072 -0.001215 0.0 -0.0 1.57079632679</pose>
-      <plugin name="iCub_yarp_gazebo_plugin_ACC" filename="libgazebo_yarp_inertial.so"/>
-    </sensor>
-  </gazebo>
-  <sensor name="l_foot_mtb_acc_10b13" type="accelerometer">
-    <parent link="l_foot"/>
-    <origin rpy="0.0 -0.0 1.57079632679" xyz="0.0805224 0.0118072 -0.001215"/>
-  </sensor>
   <link name="base_link"/>
   <joint name="base_fixed_joint" type="fixed">
   <origin xyz="0 0 0" rpy="0 -0 0"/>
@@ -2399,9 +1618,6 @@
   <gazebo reference="r_arm_ft_sensor">
   <disableFixedJointLumping>true</disableFixedJointLumping>
 </gazebo>
-  <gazebo reference="r_arm_ft_sensor">
-  <disableFixedJointLumping>true</disableFixedJointLumping>
-</gazebo>
   <gazebo reference="l_arm_ft_sensor">
   <disableFixedJointLumping>true</disableFixedJointLumping>
 </gazebo>
@@ -2417,22 +1633,100 @@
   <gazebo reference="l_foot_ft_sensor">
   <disableFixedJointLumping>true</disableFixedJointLumping>
 </gazebo>
+  <gazebo reference="torso_pitch">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="torso_roll">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="torso_yaw">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_shoulder_pitch">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_shoulder_roll">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_shoulder_yaw">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_arm_ft_sensor">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_elbow">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_wrist_prosup">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_wrist_pitch">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_wrist_yaw">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="r_shoulder_pitch">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="r_shoulder_roll">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="r_shoulder_yaw">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="r_arm_ft_sensor">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="r_elbow">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="r_wrist_prosup">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="r_wrist_pitch">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_wrist_yaw">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_hip_pitch">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_hip_roll">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_hip_yaw">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_knee">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_ankle_pitch">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="l_ankle_roll">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="r_hip_pitch">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="r_hip_roll">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="r_hip_yaw">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="r_knee">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="r_ankle_pitch">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
+  <gazebo reference="r_ankle_roll">
+  <implicitSpringDamper>1</implicitSpringDamper>
+</gazebo>
   <gazebo>
-<plugin name="iCub_yarp_gazebo_plugin_ACCpart" filename="libgazebo_yarp_distributedinertials.so">
-  <yarpConfigurationFile>model://iCub/conf/MTB/gazebo_icub_left_leg_mtb.ini</yarpConfigurationFile>
-</plugin>
-<plugin name="iCub_yarp_gazebo_plugin_ACCpart" filename="libgazebo_yarp_distributedinertials.so">
-  <yarpConfigurationFile>model://iCub/conf/MTB/gazebo_icub_right_leg_mtb.ini</yarpConfigurationFile>
-</plugin>
-<plugin name="iCub_yarp_gazebo_plugin_ACCpart" filename="libgazebo_yarp_distributedinertials.so">
-  <yarpConfigurationFile>model://iCub/conf/MTB/gazebo_icub_left_arm_mtb.ini</yarpConfigurationFile>
-</plugin>
-<plugin name="iCub_yarp_gazebo_plugin_ACCpart" filename="libgazebo_yarp_distributedinertials.so">
-  <yarpConfigurationFile>model://iCub/conf/MTB/gazebo_icub_right_arm_mtb.ini</yarpConfigurationFile>
-</plugin>
-<plugin name="iCub_yarp_gazebo_plugin_ACCpart" filename="libgazebo_yarp_distributedinertials.so">
-  <yarpConfigurationFile>model://iCub/conf/MTB/gazebo_icub_torso_mtb.ini</yarpConfigurationFile>
-</plugin>
 <plugin name="controlboard_torso" filename="libgazebo_yarp_controlboard.so">
     <yarpConfigurationFile>model://iCub/conf/gazebo_icub_torso.ini</yarpConfigurationFile>
 </plugin>
