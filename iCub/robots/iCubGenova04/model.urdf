@@ -55,7 +55,7 @@
     <inertial>
       <origin xyz="3.49999999999e-06 -0.044233 0.0248982" rpy="0 0 0"/>
       <mass value="0.4194"/>
-      <inertia ixx="0.00048916" ixy="-2.70159e-07" ixz="1.85233e-07" iyy="0.00028697" iyz="1.28773e-05" izz="0.000315599"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="0.0701 0.151913 0.0691961998094" rpy="0 0 0"/>
@@ -173,7 +173,7 @@
     <inertial>
       <origin xyz="0.0276282 6.29999999999e-05 0.0152507" rpy="0 0 0"/>
       <mass value="0.6803"/>
-      <inertia ixx="0.000405201087095" ixy="7.4060158032e-07" ixz="-3.03314661581e-05" iyy="0.000449108136626" iyz="2.88975725979e-06" izz="0.000310063350592"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="0.0986000001907 0.587138 0.0437089998093" rpy="0 0 0"/>
@@ -296,7 +296,7 @@
     <inertial>
       <origin xyz="-1.94e-05 -0.044047 0.0239587" rpy="0 0 0"/>
       <mass value="0.421161"/>
-      <inertia ixx="0.000494475" ixy="1.54783e-07" ixz="-1.86267e-07" iyy="0.000288821" iyz="1.53903e-05" izz="0.000319114"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="-0.0701 0.151913 0.0683914998093" rpy="0 0 0"/>
@@ -410,7 +410,7 @@
     <inertial>
       <origin xyz="-0.0261116 6.29999999999e-05 0.0152606" rpy="0 0 0"/>
       <mass value="0.6798"/>
-      <inertia ixx="0.000405061299357" ixy="-1.12515439246e-06" ixz="3.06763770037e-05" iyy="0.00044834556253" iyz="2.88992928055e-06" izz="0.000309415719323"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
     </inertial>
     <visual>
       <origin xyz="-0.0971179001907 0.587138 0.043409" rpy="0 0 0"/>
@@ -1615,6 +1615,34 @@
   <parent link="r_foot"/>
   <child link="r_foot_dh_frame"/>
 </joint>
+<gazebo reference="l_foot">
+  <collision> <surface> <bounce>
+    <restitution_coefficient>0</restitution_coefficient>
+    <threshold>100000</threshold>
+  </bounce> </surface> </collision>
+  <maxContacts>4</maxContacts>
+  <kp>18000000</kp>
+  <kd>100</kd>
+  <maxVel>100</maxVel>
+  <minDepth>0.0001</minDepth>
+  <mu1>1</mu1>
+  <mu2>1</mu2>
+  <fdir1>0 0 0</fdir1>
+</gazebo>
+<gazebo reference="r_foot">
+  <collision> <surface> <bounce>
+    <restitution_coefficient>0</restitution_coefficient>
+    <threshold>100000</threshold>
+  </bounce> </surface> </collision>
+  <maxContacts>4</maxContacts>
+  <kp>18000000</kp>
+  <kd>100</kd>
+  <maxVel>100</maxVel>
+  <minDepth>0.0001</minDepth>
+  <mu1>1</mu1>
+  <mu2>1</mu2>
+  <fdir1>0 0 0</fdir1>
+</gazebo>
   <gazebo reference="r_arm_ft_sensor">
   <disableFixedJointLumping>true</disableFixedJointLumping>
 </gazebo>
