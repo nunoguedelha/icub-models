@@ -1,4 +1,4 @@
-<robot name="ICUB_2-5_BB_SIM_MODEL">
+<robot name="iCub">
   <link name="root_link">
     <inertial>
       <origin xyz="0.0248821 0.000103947 -0.0440806" rpy="1.57079632679 0 -1.57079632679"/>
@@ -1580,6 +1580,34 @@
       <measure_direction>child_to_parent</measure_direction>
     </force_torque>
   </sensor>
+<gazebo reference="l_foot">
+  <collision> <surface> <bounce>
+    <restitution_coefficient>0</restitution_coefficient>
+    <threshold>100000</threshold>
+  </bounce> </surface> </collision>
+  <maxContacts>4</maxContacts>
+  <kp>18000000</kp>
+  <kd>100</kd>
+  <maxVel>100</maxVel>
+  <minDepth>0.0001</minDepth>
+  <mu1>1</mu1>
+  <mu2>1</mu2>
+  <fdir1>0 0 0</fdir1>
+</gazebo>
+<gazebo reference="r_foot">
+  <collision> <surface> <bounce>
+    <restitution_coefficient>0</restitution_coefficient>
+    <threshold>100000</threshold>
+  </bounce> </surface> </collision>
+  <maxContacts>4</maxContacts>
+  <kp>18000000</kp>
+  <kd>100</kd>
+  <maxVel>100</maxVel>
+  <minDepth>0.0001</minDepth>
+  <mu1>1</mu1>
+  <mu2>1</mu2>
+  <fdir1>0 0 0</fdir1>
+</gazebo>
   <gazebo reference="head">
     <sensor name="head_imu_acc_1x1" type="imu">
       <always_on>1</always_on>
@@ -2396,34 +2424,6 @@
   <parent link="r_foot"/>
   <child link="r_foot_dh_frame"/>
 </joint>
-<gazebo reference="l_foot">
-  <collision> <surface> <bounce>
-    <restitution_coefficient>0</restitution_coefficient>
-    <threshold>100000</threshold>
-  </bounce> </surface> </collision>
-  <maxContacts>4</maxContacts>
-  <kp>18000000</kp>
-  <kd>100</kd>
-  <maxVel>100</maxVel>
-  <minDepth>0.0001</minDepth>
-  <mu1>1</mu1>
-  <mu2>1</mu2>
-  <fdir1>0 0 0</fdir1>
-</gazebo>
-<gazebo reference="r_foot">
-  <collision> <surface> <bounce>
-    <restitution_coefficient>0</restitution_coefficient>
-    <threshold>100000</threshold>
-  </bounce> </surface> </collision>
-  <maxContacts>4</maxContacts>
-  <kp>18000000</kp>
-  <kd>100</kd>
-  <maxVel>100</maxVel>
-  <minDepth>0.0001</minDepth>
-  <mu1>1</mu1>
-  <mu2>1</mu2>
-  <fdir1>0 0 0</fdir1>
-</gazebo>
   <gazebo reference="r_arm_ft_sensor">
   <disableFixedJointLumping>true</disableFixedJointLumping>
 </gazebo>
